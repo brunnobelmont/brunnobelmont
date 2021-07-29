@@ -2,6 +2,7 @@
  <div>
   <a href="https://github.com/brunnobelmont">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunnobelmont&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+      <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobelmont&layout=compact&langs_count=7&theme=dark"/>
 </div>
     

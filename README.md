@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Bruno Belmont 
+## Olá! Eu sou o Bruno Belmont👀
  <div>
   <a href="https://github.com/brunnobelmont">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnobelmont&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,5 @@
  	<a href="https://www.twitch.tv/brunobelmont" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunnobelmont@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-santos-59028b45/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/brunnobelmont/brunnobelmont/blob/output/github-contribution-grid-snake.svg)
  
 </div>
